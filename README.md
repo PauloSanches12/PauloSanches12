@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a target="_blank" href="https://www.linkedin.com/in/paulo-s%C3%A9rgio-21aa631a3/">
+  <img align="right" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5563999150534">
+  <img align="right" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="mailto:ps350557@gmail.com">
+  <img align="right" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
