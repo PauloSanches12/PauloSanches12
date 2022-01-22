@@ -1,6 +1,5 @@
-Olá dev, me chamo Paulo Sérgio, tenho 22 anos, curso Engenharia de Software e sou apaixonado por tecnologia, e no mundo da programação, amo trabalhar com Reactjs, React Native e Nodejs, venha ver um pouco mais do meu trabalho em meu repositório! :smiley:
+Olá dev, me chamo Paulo Sérgio, tenho 23 anos, sou formado em Engenharia de Software e sou apaixonado por tecnologia, e no mundo da programação, amo trabalhar com Reactjs, React Native e Nodejs, venha ver um pouco mais do meu trabalho em meu repositório! :smiley:
 
-Hello dev, my name is Paulo Sérgio, I'm 22 years old, I'm a student of software engineering and I'm passionate about technology, and in the programming world I love working with Reactjs, React Native and Nodejs, come to know a little more about my work in my repository! :smiley:
 
 <!--
 **PauloSanches12/PauloSanches12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
