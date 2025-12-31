@@ -1,4 +1,4 @@
-Olá dev, me chamo Paulo Sérgio, tenho 23 anos, sou formado em Engenharia de Software e sou apaixonado por tecnologia, e no mundo da programação, amo trabalhar com Reactjs, React Native e Nodejs, venha ver um pouco mais do meu trabalho em meu repositório! :smiley:
+Olá dev, me chamo Paulo Sérgio, tenho 27 anos, sou formado em Engenharia de Software e sou apaixonado por tecnologia, e no mundo da programação, amo trabalhar com Reactjs, React Native e Nodejs, venha ver um pouco mais do meu trabalho em meu repositório! :smiley:
 
 
 <!--
